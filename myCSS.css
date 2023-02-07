@@ -5,16 +5,16 @@ body {
 }
 .homePage {
     }
-    .backgroundGradient {
-        background: linear-gradient(to bottom, white, #FF00FF);
-        color: white;
+ background: 
     }
 .container {
 	width: 960px;
 	margin: 0 auto;
 }
 .header {
-	background: #AAAAAA;
+	.backgroundGradient {
+        background: linear-gradient(to bottom, white, #008080);
+        color: white;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
