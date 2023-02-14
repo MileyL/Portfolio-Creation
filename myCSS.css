@@ -13,7 +13,7 @@ body {
 	margin: 0 auto;
 }
 .header {
-        color:#6BBA6D;
+        color:#43A395;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -32,7 +32,7 @@ body {
 	text-align: center;
 }
 .content {
-	background: #72EDB6;
+	background: #EDF2F1;
 	margin: 0px;
 	float: left;
 	width: 100%;
